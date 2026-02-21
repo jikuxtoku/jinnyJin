@@ -237,8 +237,8 @@ local function CreateAutoLoadTab(TabName, DescText, LoadLink, IsSettings)
 end
 
 -- Initialization
-CreateAutoLoadTab("Factory", "Automated Factory System.", "https://raw.githubusercontent.com/Koziz/CAW-SCRIPT/refs/heads/main/Pabrik.lua")
-CreateAutoLoadTab("Auto Farm", "Wood & Stone Resource Farm.", "https://raw.githubusercontent.com/Koziz/CAW-SCRIPT/refs/heads/main/Autofarm.lua")
+CreateAutoLoadTab("Factory", "Automated Factory System.", "https://raw.githubusercontent.com/jikuxtoku/factory/refs/heads/main/chinesekids")
+CreateAutoLoadTab("Auto Farm", "Wood & Stone Resource Farm.", "https://raw.githubusercontent.com/jikuxtoku/chinesefarm/refs/heads/main/crops")
 CreateAutoLoadTab("Manager", "Inventory & Sorting System.", "https://raw.githubusercontent.com/jikuxtoku/autosort/refs/heads/main/autosorted")
 CreateAutoLoadTab("Settings", "Configure UI Appearance.", "", true)
 
